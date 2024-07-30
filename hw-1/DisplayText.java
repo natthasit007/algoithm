@@ -5,3 +5,4 @@ public class DisplayText {
     System.out.println("Npru" + 2567);
     System.out.println(0+ "3" + 2);
 }
+}
